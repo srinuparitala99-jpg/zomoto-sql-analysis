@@ -13,6 +13,23 @@ Performed exploratory data analysis on Zomato Bangalore dataset containing 51,00
 - **Size**: 51,000+ rows
 - **Key Columns**: `name`, `location`, `rate`, `approx_cost(for two people)`, `online_order`, `votes`, `cuisines`
 
+## 📸 Query Results
+
+### 1. Most Expensive Areas
+![Query 1](Screenshot%20(46).png)
+
+### 2. Online Order Impact  
+![Query 2](Screenshot%20(47).png)
+
+### 3. Top Cuisines
+![Query 3](Screenshot%20(48).png)
+
+### 4. Best Restaurant Per Location
+![Query 4](Screenshot%20(49).png)
+
+### 5. Costly But Low Rating
+![Query 5](Screenshot%20(50).png)
+
 ## 🔍 Key Business Questions Solved
 
 ### 1. Which are the most expensive areas in Bangalore?
