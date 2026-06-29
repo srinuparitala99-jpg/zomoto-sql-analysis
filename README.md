@@ -80,3 +80,16 @@ Insight: Identified restaurants with poor value-for-money to avoid.
 
 
 
+## 📈 Key Learnings
+1. Data Cleaning: Handled commas in numeric fields using `REPLACE` and type conversion with `CAST`.
+2. Window Functions: Used `ROW_NUMBER() OVER(PARTITION BY)` for advanced ranking.
+3. Business Insights: Converted raw data into actionable insights on pricing and customer preferences.
+
+## 🚀 How to Run
+1. Download `restaurants.db` file.
+2. Open with DB Browser for SQLite.
+3. Run the queries from the `Execute SQL` tab.
+
+ 
+
+
