@@ -30,7 +30,7 @@ ORDER BY avg_cost_for_two DESC LIMIT 10;
 Insight: Sankey Road (₹2506), Race Course Road (₹1309), and Lavelle Road (₹1308) are the costliest locations.
 
 
- 2. Does online ordering impact restaurant ratings?
+### 2. Does online ordering impact restaurant ratings?
 Query: Compared average ratings for restaurants with/without online delivery.
 ```sql
 SELECT 
